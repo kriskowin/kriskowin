@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kristian Vlasov.
+- 👀 I’m interested in AI, ML, Crypto, Cibersecurity and sports.
+- 🌱 I’m currently learning Python at Software University at Sofia, Bulgaria.
+- 💞️ I’m looking to collaborate on projects that helps.
